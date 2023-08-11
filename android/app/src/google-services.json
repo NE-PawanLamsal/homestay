@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "181002858034",
+    "project_id": "homestay-8abb0",
+    "storage_bucket": "homestay-8abb0.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:181002858034:android:3eaca9cf83e302607d962b",
+        "android_client_info": {
+          "package_name": "com.example.flutter_hotel_booking_ui"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "181002858034-8cp7rgafds55u9l022lc7m9a59b9ebai.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.flutter_hotel_booking_ui",
+            "certificate_hash": "8a4c7ca7b070540ee09492d6e5791712ec85fa88"
+          }
+        },
+        {
+          "client_id": "181002858034-jqtj3lh8cqpb1ao5tf1bb5j1n99d7o8h.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBslDeTJR_i5OXO_c6U0Ib6LmcIz-SKks"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "181002858034-jqtj3lh8cqpb1ao5tf1bb5j1n99d7o8h.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
